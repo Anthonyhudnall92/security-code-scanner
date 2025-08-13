@@ -1,0 +1,30 @@
+# Security Scanner Generated Files
+semgrep_results_*.json
+security_report_*.html
+test_results.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+custom-secrets.yaml
