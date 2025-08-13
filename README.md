@@ -36,8 +36,8 @@ A comprehensive security scanning tool that generates professional HTML reports 
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
-cd code_compliance
+git clone https://github.com/Anthonyhudnall92/security-code-scanner.git
+cd security-code-scanner
 ```
 
 2. Make scripts executable:
@@ -145,6 +145,27 @@ Each finding includes:
 - Description of the security issue
 - Step-by-step remediation instructions
 - Links to OWASP and security resources
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Make your changes
+4. Test thoroughly
+5. Commit your changes (`git commit -m 'Add some amazing feature'`)
+6. Push to the branch (`git push origin feature/amazing-feature`)
+7. Open a Pull Request
+
+## 🙋‍♂️ Support
+
+For issues or questions:
+1. Check existing [GitHub Issues](https://github.com/Anthonyhudnall92/security-code-scanner/issues)
+2. Create a new issue with detailed description
+3. Include scan output and environment details
 
 ---
 
